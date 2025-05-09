@@ -1,1 +1,1 @@
-# mpg all theme/plugins.
+# mpg theme/plugins.
