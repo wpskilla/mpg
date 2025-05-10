@@ -14,10 +14,10 @@
 ==================================================================
 
 7) delete Classic Editor | Disable Updates plugins.
-7) uploading stable theme.
-8) mpg to links nova plugin replacement.
-9) updating all theme/plugins.
-10) updating mpg city sheet and urls remake.
-11) updating site permalinks.
-12) site cache optimization.
-13) cache removal.
+8) uploading stable theme.
+9) mpg to links nova plugin replacement.
+10) updating all theme/plugins.
+11) updating mpg city sheet and urls remake.
+12) updating site permalinks.
+13) site cache optimization.
+14) cache removal.
