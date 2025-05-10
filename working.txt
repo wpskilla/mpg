@@ -13,6 +13,7 @@
 	/*** OPTIONAL ***/
 ==================================================================
 
+7) Classic Editor | Disable Updates plugins removal.
 7) uploading stable theme.
 8) mpg to links nova plugin replacement.
 9) updating all theme/plugins.
