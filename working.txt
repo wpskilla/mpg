@@ -19,5 +19,6 @@
 10) cache removal.
 11) updating permalink.
 12) site updating to no index.
+13) cache site optimization.
 
 
