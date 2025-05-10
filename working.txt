@@ -14,11 +14,9 @@
 ==================================================================
 
 7) uploading stable theme.
-9) mpg to links nova plugin replacement.
-8) updating all theme/plugins.
-9) updating mpg city sheet and urls remake.
+8) mpg to links nova plugin replacement.
+9) updating all theme/plugins.
+10) updating mpg city sheet and urls remake.
 11) updating site permalinks.
-13) site cache optimization.
-10) cache removal.
-
-
+12) site cache optimization.
+13) cache removal.
