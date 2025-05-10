@@ -1,0 +1,25 @@
+
+
+==================================================================
+	/*** REQUIRED ***/
+==================================================================
+
+1) uploading logo.
+2) setting color-scheme/font-family.
+3) uploading content.
+4) setting mail.
+5) images uploading.
+
+==================================================================
+	/*** OPTIONAL ***/
+==================================================================
+
+6) uploading stable theme.
+7) updating theme/plugins.
+8) mpg plugin replacement.
+9) updating mpg city sheet and urls remake.
+10) cache removal.
+11) updating permalink.
+12) site updating to no index.
+
+
