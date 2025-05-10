@@ -7,18 +7,18 @@
 3) uploading content.
 4) setting mail.
 5) images uploading.
+6) site setting to no index mode.
 
 ==================================================================
 	/*** OPTIONAL ***/
 ==================================================================
 
-6) uploading stable theme.
-7) updating theme/plugins.
-8) mpg plugin replacement.
+7) uploading stable theme.
+9) mpg to links nova plugin replacement.
+8) updating all theme/plugins.
 9) updating mpg city sheet and urls remake.
+11) updating site permalinks.
+13) site cache optimization.
 10) cache removal.
-11) updating permalink.
-12) site updating to no index.
-13) cache site optimization.
 
 
